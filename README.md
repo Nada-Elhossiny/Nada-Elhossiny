@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Nada Elhossiny and I am a Computer Science and Business student at the Univeristy of Waterloo and Wilfred Laurier University!
+- 👩‍💻 I’m currently working as a Full Stack Software Engineering Intern @ Manulife
+- 🌱 I’m currently learning React and deepening my understanding of Python and SQL Databases
+- 🤔 I'm interested in learning more about Data Science 
+- 📫 Feel free to reach me on [LinkedIn](www.linkedin.com/in/nadaelhossiny)
+
+
 <!--
 **Nada-Elhossiny/Nada-Elhossiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
