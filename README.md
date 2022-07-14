@@ -7,6 +7,8 @@ My name is Nada Elhossiny and I am a Computer Science and Business student at th
 - 📫 Feel free to reach me on
 <a href="https://www.linkedin.com/in/nadaelhossiny/" onclick="window.open('https://www.linkedin.com/in/nadaelhossiny/', '_self');"> LinkedIn </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nada-elhossiny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Nada-Elhossiny/Nada-Elhossiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
