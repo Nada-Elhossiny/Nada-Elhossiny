@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My name is Nada Elhossiny and I am a Computer Science and Business student at the Univeristy of Waterloo and Wilfred Laurier University!
-- 👩‍💻 I’m currently a Full Stack Software Engineering Intern @ Manulife
-- 🌱 I’m learning React and deepening my understanding of Python and SQL Databases
+- 👩‍💻 This summer I was a Full Stack Software Engineering Intern @ Manulife
+- 🌱 I’m learning React and deepening my understanding of Python as well as SQL Databases
 - 🤔 I'm interested in learning more about Data Science 
 - 📫 Feel free to reach me on
 <a href="https://www.linkedin.com/in/nadaelhossiny/" onclick="window.open('https://www.linkedin.com/in/nadaelhossiny/', '_self');"> LinkedIn </a>
