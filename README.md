@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-My name is Nada Elhossiny and I am a Computer Science and Business student at the Univeristy of Waterloo and Wilfred Laurier University!
-- 👩‍💻 This summer I was a Full Stack Software Engineering Intern @ Manulife
-- 🌱 I’m learning React and deepening my understanding of Python as well as SQL Databases
-- 🤔 I'm interested in learning more about Data Science 
+My name is Nada Elhossiny and I am a Computer Science and Business student at the Univeristy of Waterloo and Wilfrid Laurier University! This winter, I am joining Manulife as a Data Science Intern!
+
+- 👩‍💻 Last summer I was a Full Stack Software Engineering Intern @ Manulife
+- 🌱 I’m currently deepening my understanding of Python as well as SQL Databases
+- 🤔 I'm interested in learning more about Data Science and React
 - 📫 Feel free to reach me on
 <a href="https://www.linkedin.com/in/nadaelhossiny/" onclick="window.open('https://www.linkedin.com/in/nadaelhossiny/', '_self');"> LinkedIn </a>
 
